@@ -1,0 +1,16 @@
+{
+  "name": "mini-local-diary",
+  "version": "1.0.0",
+  "description": "Minimal Local Markdown Diary Desktop App",
+  "main": "resources/index.html",
+  "scripts": {
+    "start": "neu run",
+    "dev": "neu run",
+    "build": "neu build --release",
+    "package:os": "node scripts/package-os.js",
+    "update": "neu update"
+  },
+  "devDependencies": {
+    "@neutralinojs/neu": "^11.3.0"
+  }
+}
