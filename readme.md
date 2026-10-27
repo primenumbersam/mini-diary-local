@@ -1,7 +1,8 @@
 # Mini Local Diary
 
-Mini Local Diary는 개인 데이터의 완전한 소유권과 프라이버시를 보장하는 Minimal Local Markdown Diary Desktop App입니다. 
+Mini Local Diary는 개인 데이터의 소유권과 프라이버시를 보장하는 Minimal Local Markdown Diary Desktop App입니다. 
 클라우드 동기화나 외부 데이터베이스 서버 없이, 로컬 디렉터리에 평문 마크다운(.md) 파일과 이미지 파일을 구조화하여 보관합니다.
+![screen](screen-diary.jpg)
 
 ### Features
 
